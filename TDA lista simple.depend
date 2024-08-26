@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1664945042 source:c:\users\danie\onedrive\documents\estd i\tda lista simple\lista.cpp
+	"lista.h"
+	"nodo.h"
+	<iostream>
+	<string>
+
+1664945042 c:\users\danie\onedrive\documents\estd i\tda lista simple\lista.h
+	"nodo.h"
+	<iostream>
+	<string>
+
+1664772588 c:\users\danie\onedrive\documents\estd i\tda lista simple\nodo.h
+	"nodo.h"
+	<string>
+	<conio.h>
+
+1664772588 source:c:\users\danie\onedrive\documents\estd i\tda lista simple\nodo.cpp
+	"nodo.h"
+
+1664944662 source:c:\users\danie\onedrive\documents\estd i\tda lista simple\main.cpp
+	<iostream>
+	"lista.h"
+	"nodo.h"
+	<string>
+	<conio.h>
+	<cstring>
+
